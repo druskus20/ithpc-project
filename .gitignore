@@ -1,0 +1,16 @@
+env
+__pycache__
+*.mp4
+*.lprof 
+*.ipynb_checkpoints
+*.log
+*.csv
+profile_results
+*.stats
+*.png
+*.txt
+*.prof
+*.data
+backup
+*.so
+build
